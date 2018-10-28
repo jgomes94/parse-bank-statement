@@ -1,0 +1,14 @@
+{
+  "name": "extractparser",
+  "version": "1.0.0",
+  "description": "Parser dos extractos da caixa",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Gomes",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
